@@ -4,4 +4,5 @@ matplotlib
 pandas
 scikit-learn
 streamlit
-statsmodel
+statsmodels
+
